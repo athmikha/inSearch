@@ -8,8 +8,8 @@ from flask import Flask, render_template
 mydb=mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Samaya#9421",
-    database="swarnesh"
+    password="*********",
+    database="athmikha"
 )
 
 class TrieNode:
